@@ -1,0 +1,79 @@
+[1mtrue.[0m
+
+?- consult('c:/users/mvppr/desktop/SDE1/SDE1_4.pl').
+
+
+[1mtrue.[0m
+
+?- bedplan(F1,F2,F3,F4).
+
+
+Flower: name, size, wet/dry, color: roses med dry red
+Flower: name, size, wet/dry, color: daisies med wet yellow
+Flower: name, size, wet/dry, color: petunias med wet pink
+Flower: name, size, wet/dry, color: snapdragons tall dry red
+F1 = roses,
+F2 = daisies,
+F3 = petunias,
+F4 = snapdragons  [1m;[0m
+Flower: name, size, wet/dry, color: roses med dry red
+Flower: name, size, wet/dry, color: daisies med wet yellow
+Flower: name, size, wet/dry, color: petunias med wet pink
+Flower: name, size, wet/dry, color: poppy med dry red
+F1 = roses,
+F2 = daisies,
+F3 = petunias,
+F4 = poppy  [1m;[0m
+Flower: name, size, wet/dry, color: roses med dry red
+Flower: name, size, wet/dry, color: daisies med wet yellow
+Flower: name, size, wet/dry, color: petunias med wet pink
+Flower: name, size, wet/dry, color: crocus med dry orange
+F1 = roses,
+F2 = daisies,
+F3 = petunias,
+F4 = crocus  [1m;[0m
+Flower: name, size, wet/dry, color: roses med dry red
+Flower: name, size, wet/dry, color: daisies med wet yellow
+Flower: name, size, wet/dry, color: petunias med wet pink
+Flower: name, size, wet/dry, color: iris tall dry purple
+F1 = roses,
+F2 = daisies,
+F3 = petunias,
+F4 = iris  [1m;[0m
+Flower: name, size, wet/dry, color: roses med dry red
+Flower: name, size, wet/dry, color: daisies med wet yellow
+Flower: name, size, wet/dry, color: petunias med wet pink
+Flower: name, size, wet/dry, color: sunflower tall dry yellow
+F1 = roses,
+F2 = daisies,
+F3 = petunias,
+F4 = sunflower  [1m;[0m
+Flower: name, size, wet/dry, color: roses med dry red
+Flower: name, size, wet/dry, color: daisies med wet yellow
+Flower: name, size, wet/dry, color: begonias tall wet white
+Flower: name, size, wet/dry, color: snapdragons tall dry red
+F1 = roses,
+F2 = daisies,
+F3 = begonias,
+F4 = snapdragons  [1m;[0m
+Flower: name, size, wet/dry, color: roses med dry red
+Flower: name, size, wet/dry, color: daisies med wet yellow
+Flower: name, size, wet/dry, color: begonias tall wet white
+Flower: name, size, wet/dry, color: azalea med dry pink
+F1 = roses,
+F2 = daisies,
+F3 = begonias,
+F4 = azalea  [1m;[0m
+Flower: name, size, wet/dry, color: roses med dry red
+Flower: name, size, wet/dry, color: daisies med wet yellow
+Flower: name, size, wet/dry, color: begonias tall wet white
+Flower: name, size, wet/dry, color: poppy med dry red
+F1 = roses,
+F2 = daisies,
+F3 = begonias,
+F4 = poppy a[1m.[0m
+
+?- 
+
+[32m% halt
+[0m

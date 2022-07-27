@@ -1,0 +1,79 @@
+[1mtrue.[0m
+
+?- consult('c:/users/mvppr/desktop/SDE1/SDE1_2.pl').
+
+
+[1mtrue.[0m
+
+?- bedplan(F1,F2,F3,F4).
+
+
+Flower: name, size, wet/dry, color: daisies med wet yellow
+Flower: name, size, wet/dry, color: roses med dry red
+Flower: name, size, wet/dry, color: petunias med wet pink
+Flower: name, size, wet/dry, color: daffodils med wet yellow
+F1 = daisies,
+F2 = roses,
+F3 = petunias,
+F4 = daffodils  [1m;[0m
+Flower: name, size, wet/dry, color: daisies med wet yellow
+Flower: name, size, wet/dry, color: roses med dry red
+Flower: name, size, wet/dry, color: petunias med wet pink
+Flower: name, size, wet/dry, color: begonias tall wet white
+F1 = daisies,
+F2 = roses,
+F3 = petunias,
+F4 = begonias  [1m;[0m
+Flower: name, size, wet/dry, color: daisies med wet yellow
+Flower: name, size, wet/dry, color: roses med dry red
+Flower: name, size, wet/dry, color: petunias med wet pink
+Flower: name, size, wet/dry, color: snapdragons tall dry red
+F1 = daisies,
+F2 = roses,
+F3 = petunias,
+F4 = snapdragons  [1m;[0m
+Flower: name, size, wet/dry, color: daisies med wet yellow
+Flower: name, size, wet/dry, color: roses med dry red
+Flower: name, size, wet/dry, color: petunias med wet pink
+Flower: name, size, wet/dry, color: marigolds short wet yellow
+F1 = daisies,
+F2 = roses,
+F3 = petunias,
+F4 = marigolds  [1m;[0m
+Flower: name, size, wet/dry, color: daisies med wet yellow
+Flower: name, size, wet/dry, color: roses med dry red
+Flower: name, size, wet/dry, color: petunias med wet pink
+Flower: name, size, wet/dry, color: gardenias med wet red
+F1 = daisies,
+F2 = roses,
+F3 = petunias,
+F4 = gardenias  [1m;[0m
+Flower: name, size, wet/dry, color: daisies med wet yellow
+Flower: name, size, wet/dry, color: roses med dry red
+Flower: name, size, wet/dry, color: petunias med wet pink
+Flower: name, size, wet/dry, color: gladiolas tall wet red
+F1 = daisies,
+F2 = roses,
+F3 = petunias,
+F4 = gladiolas  [1m;[0m
+Flower: name, size, wet/dry, color: daisies med wet yellow
+Flower: name, size, wet/dry, color: roses med dry red
+Flower: name, size, wet/dry, color: petunias med wet pink
+Flower: name, size, wet/dry, color: bird_of_paradise tall wet white
+F1 = daisies,
+F2 = roses,
+F3 = petunias,
+F4 = bird_of_paradise  [1m;[0m
+Flower: name, size, wet/dry, color: daisies med wet yellow
+Flower: name, size, wet/dry, color: roses med dry red
+Flower: name, size, wet/dry, color: petunias med wet pink
+Flower: name, size, wet/dry, color: lilies short dry white
+F1 = daisies,
+F2 = roses,
+F3 = petunias,
+F4 = lilies a[1m.[0m
+
+?- 
+
+[32m% halt
+[0m
